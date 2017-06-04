@@ -48,6 +48,10 @@ div {
   position: relative;
 }
 
+.column {
+  margin-right: 30px;
+}
+
 .column.large {
   width: 630px;
 }
